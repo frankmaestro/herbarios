@@ -1,0 +1,54 @@
+{
+	"PERSONA": [
+		{
+			"cedula": "123456789",
+			"dtype": "Recolector",
+			"apellido": "Perez",
+			"clave": "12345",
+			"email": "pperez@mail.com",
+			"estado": "activo",
+			"nombre": "Pedro Perez",
+			"fechaNacimiento": "1992-02-28"
+		},
+		{
+			"cedula": "949876543",
+			"dtype": "Empleado",
+			"apellido": "Vargas",
+			"clave": "12345",
+			"email": "jvargas@mail.com",
+			"nombre": "Juliana",
+			"estado": "activo",
+			"fechaNacimiento": "1992-02-28"
+		},
+		{
+			"cedula": "5678912345",
+			"dtype": "Administrador",
+			"apellido": "Bonilla",
+			"clave": "12345",
+			"email": "ybonilla@mail.com",
+			"nombre": "Jheison",
+			"estado": "activo",
+			"fechaNacimiento": "1983-02-28"
+		}
+	],
+	"RECOLECTOR": [
+		{
+			"cedula": "123456789"
+		}
+	],
+	"EMPLEADO": [
+		{
+			"cedula": "949876543",
+			"salario": 999000
+		},
+		{
+			"cedula": "5678912345",
+			"salario": 781000
+		}
+	],
+	"ADMINISTRADOR": [
+		{
+			"cedula": "5678912345"
+		}
+	]
+}

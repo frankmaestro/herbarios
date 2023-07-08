@@ -1,0 +1,25 @@
+{
+	"REGISTRO": [
+		{
+			"id": 1,
+			"estado": "Pendiente",
+			"mensaje": null,
+			"fechaenvio": "2019-02-28",
+			"recolector_cedula": "123456789"
+		},
+		{
+			"id": 2,
+			"estado": "Pendiente",
+			"mensaje": null,
+			"fechaenvio": "2019-02-28",
+			"recolector_cedula": "123456789"
+		},
+		{
+			"id": 3,
+			"estado": "Pendiente",
+			"mensaje": null,
+			"fechaenvio": "2019-02-28",
+			"recolector_cedula": "123456789"
+		}
+	]
+}

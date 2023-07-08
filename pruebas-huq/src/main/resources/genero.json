@@ -1,0 +1,14 @@
+{
+	"GENERO": [
+		{
+			"id": 1,
+			"nombre": "Amara",
+			"familia_id": 1
+		},
+		{
+			"id": 2,
+			"nombre": "Bulta",
+			"familia_id": 2
+		}
+	]
+}
